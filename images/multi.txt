@@ -1,0 +1,1025 @@
+Image: Multi_page24bpp.tif
+  Format: TIFF (Tagged Image File Format)
+  Mime type: image/tiff
+  Class: DirectClass
+  Geometry: 363x382+0+0
+  Resolution: 96x96
+  Print size: 3.78125x3.97917
+  Units: PixelsPerInch
+  Type: Palette
+  Endianess: LSB
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 138666
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 217.256 (0.851983)
+      standard deviation: 59.4639 (0.233192)
+      kurtosis: 7.64527
+      skewness: -2.94357
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 217.864 (0.85437)
+      standard deviation: 59.9424 (0.235068)
+      kurtosis: 8.20855
+      skewness: -3.07688
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 223.011 (0.874555)
+      standard deviation: 54.1348 (0.212293)
+      kurtosis: 11.661
+      skewness: -3.5853
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 219.377 (0.860303)
+      standard deviation: 57.9069 (0.227086)
+      kurtosis: 9.00897
+      skewness: -3.18826
+  Colors: 157
+  Histogram:
+      5962: (  0,  0,  0) #000000 black
+      1845: (  0,  0,255) #0000FF blue
+         2: ( 20, 22, 22) #141616 srgb(20,22,22)
+         1: ( 24, 24, 24) #181818 srgb(24,24,24)
+         1: ( 27, 67, 74) #1B434A srgb(27,67,74)
+         2: ( 28, 28, 28) #1C1C1C grey11
+         1: ( 28, 84, 91) #1C545B srgb(28,84,91)
+       362: ( 40,207,228) #28CFE4 srgb(40,207,228)
+       396: ( 52, 52, 52) #343434 srgb(52,52,52)
+       354: ( 63,206,242) #3FCEF2 srgb(63,206,242)
+         2: ( 66, 66, 66) #424242 grey26
+         1: ( 66,207,242) #42CFF2 srgb(66,207,242)
+        80: ( 67, 20, 34) #431422 srgb(67,20,34)
+         1: ( 68,207,242) #44CFF2 srgb(68,207,242)
+         1: ( 71,208,242) #47D0F2 srgb(71,208,242)
+         1: ( 74,209,243) #4AD1F3 srgb(74,209,243)
+         1: ( 78,210,242) #4ED2F2 srgb(78,210,242)
+         4: ( 79, 38, 53) #4F2635 srgb(79,38,53)
+         2: ( 80, 41, 56) #502938 srgb(80,41,56)
+         1: ( 82,211,242) #52D3F2 srgb(82,211,242)
+        32: ( 83, 86,102) #535666 srgb(83,86,102)
+         1: ( 86,212,242) #56D4F2 srgb(86,212,242)
+         1: ( 91,213,243) #5BD5F3 srgb(91,213,243)
+         2: ( 93, 61, 77) #5D3D4D srgb(93,61,77)
+         1: ( 95,213,243) #5FD5F3 srgb(95,213,243)
+       192: (100,100,100) #646464 srgb(100,100,100)
+         1: (100,215,243) #64D7F3 srgb(100,215,243)
+        93: (105,105,105) #696969 DimGray
+         1: (105,217,243) #69D9F3 srgb(105,217,243)
+         1: (110,218,243) #6EDAF3 srgb(110,218,243)
+         1: (115,219,243) #73DBF3 srgb(115,219,243)
+         1: (121,220,244) #79DCF4 srgb(121,220,244)
+         1: (125,221,244) #7DDDF4 srgb(125,221,244)
+         2: (130, 77, 75) #824D4B srgb(130,77,75)
+         2: (131, 81, 78) #83514E srgb(131,81,78)
+         1: (131,222,244) #83DEF4 srgb(131,222,244)
+         2: (133, 85, 83) #855553 srgb(133,85,83)
+         1: (135, 90, 89) #875A59 srgb(135,90,89)
+         1: (135,224,244) #87E0F4 srgb(135,224,244)
+         4: (138, 95, 95) #8A5F5F srgb(138,95,95)
+         1: (143,143,143) #8F8F8F grey56
+         2: (148,116,117) #947475 srgb(148,116,117)
+         2: (149,117,119) #957577 srgb(149,117,119)
+         1: (150,119,121) #967779 srgb(150,119,121)
+         4: (151,122,124) #977A7C srgb(151,122,124)
+       355: (152,180,208) #98B4D0 srgb(152,180,208)
+       357: (153,180,209) #99B4D1 srgb(153,180,209)
+       359: (154,182,210) #9AB6D2 srgb(154,182,210)
+         2: (155,159,181) #9B9FB5 srgb(155,159,181)
+       328: (155,183,211) #9BB7D3 srgb(155,183,211)
+         1: (156,229,244) #9CE5F4 srgb(156,229,244)
+       328: (157,184,212) #9DB8D4 srgb(157,184,212)
+       328: (158,185,212) #9EB9D4 srgb(158,185,212)
+        89: (160,160,160) #A0A0A0 srgb(160,160,160)
+         2: (160,166,188) #A0A6BC srgb(160,166,188)
+         1: (161,230,244) #A1E6F4 srgb(161,230,244)
+       328: (164,190,217) #A4BED9 srgb(164,190,217)
+       309: (165,191,218) #A5BFDA srgb(165,191,218)
+         1: (166,231,244) #A6E7F4 srgb(166,231,244)
+       312: (167,192,220) #A7C0DC srgb(167,192,220)
+       313: (168,193,221) #A8C1DD srgb(168,193,221)
+       286: (169,195,221) #A9C3DD srgb(169,195,221)
+         1: (169,214,224) #A9D6E0 srgb(169,214,224)
+         1: (170,233,245) #AAE9F5 srgb(170,233,245)
+        16: (171,171,171) #ABABAB grey67
+       293: (171,196,223) #ABC4DF srgb(171,196,223)
+       293: (172,197,224) #ACC5E0 srgb(172,197,224)
+       293: (174,199,225) #AEC7E1 srgb(174,199,225)
+       296: (176,200,226) #B0C8E2 srgb(176,200,226)
+       277: (177,201,228) #B1C9E4 srgb(177,201,228)
+       328: (178,203,229) #B2CBE5 srgb(178,203,229)
+       328: (179,204,230) #B3CCE6 srgb(179,204,230)
+       328: (180,205,230) #B4CDE6 srgb(180,205,230)
+       328: (181,206,231) #B5CEE7 srgb(181,206,231)
+       359: (183,207,232) #B7CFE8 srgb(183,207,232)
+        20: (184, 67, 44) #B8432C srgb(184,67,44)
+       359: (184,208,233) #B8D0E9 srgb(184,208,233)
+         1: (185,185,185) #B9B9B9 srgb(185,185,185)
+      1426: (185,209,234) #B9D1EA srgb(185,209,234)
+         2: (186, 73, 51) #BA4933 srgb(186,73,51)
+         2: (186, 74, 51) #BA4A33 srgb(186,74,51)
+         2: (186,154,155) #BA9A9B srgb(186,154,155)
+         5: (187, 73, 51) #BB4933 srgb(187,73,51)
+         2: (187, 73, 52) #BB4934 srgb(187,73,52)
+         4: (187, 74, 51) #BB4A33 srgb(187,74,51)
+         3: (187, 74, 52) #BB4A34 srgb(187,74,52)
+         2: (188,154,155) #BC9A9B srgb(188,154,155)
+         1: (191, 83, 61) #BF533D srgb(191,83,61)
+        15: (191, 83, 62) #BF533E srgb(191,83,62)
+      8925: (192,192,192) #C0C0C0 silver
+         1: (193,238,245) #C1EEF5 srgb(193,238,245)
+         2: (195, 94, 75) #C35E4B srgb(195,94,75)
+         8: (196, 94, 74) #C45E4A srgb(196,94,74)
+         2: (196, 94, 75) #C45E4B srgb(196,94,75)
+         4: (196, 95, 74) #C45F4A srgb(196,95,74)
+         1: (201,105, 87) #C96957 srgb(201,105,87)
+         8: (201,106, 87) #C96A57 srgb(201,106,87)
+         8: (201,106, 88) #C96A58 srgb(201,106,88)
+        26: (206,117,100) #CE7564 srgb(206,117,100)
+         1: (206,117,101) #CE7565 srgb(206,117,101)
+         5: (210,126,110) #D27E6E srgb(210,126,110)
+         8: (210,126,111) #D27E6F srgb(210,126,111)
+         4: (210,127,110) #D27F6E srgb(210,127,110)
+         5: (210,127,111) #D27F6F srgb(210,127,111)
+         1: (210,240,247) #D2F0F7 srgb(210,240,247)
+         3: (211,126,111) #D37E6F srgb(211,126,111)
+         1: (211,127,110) #D37F6E srgb(211,127,110)
+         1: (211,127,111) #D37F6F srgb(211,127,111)
+         6: (215,215,215) #D7D7D7 srgb(215,215,215)
+         4: (217,154,142) #D99A8E srgb(217,154,142)
+         2: (218,157,145) #DA9D91 srgb(218,157,145)
+         1: (219,233,236) #DBE9EC srgb(219,233,236)
+         6: (220,220,220) #DCDCDC gainsboro
+         2: (221,163,152) #DDA398 srgb(221,163,152)
+         2: (223,148,135) #DF9487 srgb(223,148,135)
+        10: (223,149,135) #DF9587 srgb(223,149,135)
+         2: (224,148,135) #E09487 srgb(224,148,135)
+         4: (224,149,135) #E09587 srgb(224,149,135)
+         2: (224,171,160) #E0ABA0 srgb(224,171,160)
+         1: (225,152,139) #E1988B srgb(225,152,139)
+         1: (225,152,140) #E1988C srgb(225,152,140)
+         9: (225,153,139) #E1998B srgb(225,153,139)
+         1: (225,153,140) #E1998C srgb(225,153,140)
+         1: (226,152,139) #E2988B srgb(226,152,139)
+         3: (226,153,139) #E2998B srgb(226,153,139)
+         5: (226,226,226) #E2E2E2 srgb(226,226,226)
+         2: (227,157,144) #E39D90 srgb(227,157,144)
+         1: (227,158,144) #E39E90 srgb(227,158,144)
+        89: (227,227,227) #E3E3E3 grey89
+        10: (228,157,144) #E49D90 srgb(228,157,144)
+         3: (228,158,144) #E49E90 srgb(228,158,144)
+         2: (228,180,171) #E4B4AB srgb(228,180,171)
+         2: (228,228,228) #E4E4E4 srgb(228,228,228)
+         1: (229,162,149) #E5A295 srgb(229,162,149)
+        14: (230,162,149) #E6A295 srgb(230,162,149)
+         2: (230,163,149) #E6A395 srgb(230,163,149)
+         6: (231,166,153) #E7A699 srgb(231,166,153)
+        12: (232,166,153) #E8A699 srgb(232,166,153)
+         2: (232,166,154) #E8A69A srgb(232,166,154)
+         7: (232,167,153) #E8A799 srgb(232,167,153)
+         2: (232,189,181) #E8BDB5 srgb(232,189,181)
+        27: (233,169,156) #E9A99C srgb(233,169,156)
+         3: (233,233,233) #E9E9E9 srgb(233,233,233)
+        27: (236,198,192) #ECC6C0 srgb(236,198,192)
+         4: (237,196,189) #EDC4BD srgb(237,196,189)
+         2: (239,200,193) #EFC8C1 srgb(239,200,193)
+         2: (240,203,196) #F0CBC4 srgb(240,203,196)
+    109606: (240,240,240) #F0F0F0 grey94
+         2: (242,206,200) #F2CEC8 srgb(242,206,200)
+         2: (243,209,202) #F3D1CA srgb(243,209,202)
+        27: (244,211,204) #F4D3CC srgb(244,211,204)
+         1: (247,247,247) #F7F7F7 grey97
+         5: (250,250,250) #FAFAFA grey98
+         1: (252,252,252) #FCFCFC grey99
+         6: (253,253,253) #FDFDFD srgb(253,253,253)
+       843: (255,  0,  0) #FF0000 red
+       822: (255,255,255) #FFFFFF white
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 363x382+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 0 of 6
+  Compression: LZW
+  Orientation: TopLeft
+  Properties:
+    date:create: 2018-07-04T12:25:01+01:00
+    date:modify: 2018-07-04T12:25:01+01:00
+    signature: 4281cc379f68af58c899287b5952036848dcd382eecf084f5e96529d8b15dd0a
+    tiff:alpha: unspecified
+    tiff:endian: lsb
+    tiff:photometric: RGB
+    tiff:rows-per-strip: 382
+  Artifacts:
+    filename: Multi_page24bpp.tif
+    verbose: true
+  Tainted: False
+  Filesize: 73.9KB
+  Number pixels: 139K
+  Pixels per second: 6.933MB
+  User time: 0.020u
+  Elapsed time: 0:01.019
+  Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-06-11 http://www.imagemagick.org
+Image: Multi_page24bpp.tif
+  Format: TIFF (Tagged Image File Format)
+  Mime type: image/tiff
+  Class: DirectClass
+  Geometry: 363x382+0+0
+  Resolution: 96x96
+  Print size: 3.78125x3.97917
+  Units: PixelsPerInch
+  Type: Grayscale
+  Endianess: LSB
+  Colorspace: Gray
+  Depth: 8-bit
+  Channel depth:
+    gray: 8-bit
+  Channel statistics:
+    Pixels: 138666
+    Gray:
+      min: 0 (0)
+      max: 254 (0.996078)
+      mean: 217.405 (0.852569)
+      standard deviation: 57.1509 (0.224121)
+      kurtosis: 8.19424
+      skewness: -3.04228
+  Colors: 100
+  Histogram:
+      5962: (  0,  0,  0) #000000 gray(0)
+         2: ( 21, 21, 21) #151515 gray(21)
+         1: ( 23, 23, 23) #171717 gray(23)
+         2: ( 27, 27, 27) #1B1B1B gray(27)
+      1845: ( 31, 31, 31) #1F1F1F gray(31)
+        80: ( 33, 33, 33) #212121 gray(33)
+         4: ( 49, 49, 49) #313131 gray(49)
+       396: ( 51, 51, 51) #333333 gray(51)
+         2: ( 52, 52, 52) #343434 gray(52)
+         1: ( 57, 57, 57) #393939 gray(57)
+       843: ( 63, 63, 63) #3F3F3F gray(63)
+         2: ( 65, 65, 65) #414141 gray(65)
+         3: ( 70, 70, 70) #464646 gray(70)
+        32: ( 86, 86, 86) #565656 gray(86)
+         2: ( 89, 89, 89) #595959 gray(89)
+        22: ( 92, 92, 92) #5C5C5C gray(92)
+         2: ( 96, 96, 96) #606060 gray(96)
+        15: ( 98, 98, 98) #626262 gray(98)
+       195: ( 99, 99, 99) #636363 gray(99)
+         1: (100,100,100) #646464 gray(100)
+        93: (104,104,104) #686868 gray(104)
+         4: (105,105,105) #696969 gray(105)
+        16: (106,106,106) #6A6A6A gray(106)
+        12: (116,116,116) #747474 gray(116)
+         4: (117,117,117) #757575 gray(117)
+         2: (123,123,123) #7B7B7B gray(123)
+         2: (124,124,124) #7C7C7C gray(124)
+        10: (126,126,126) #7E7E7E gray(126)
+         8: (127,127,127) #7F7F7F gray(127)
+         4: (129,129,129) #818181 gray(129)
+        27: (136,136,136) #888888 gray(136)
+         1: (142,142,142) #8E8E8E gray(142)
+        16: (144,144,144) #909090 gray(144)
+        11: (145,145,145) #919191 gray(145)
+        89: (159,159,159) #9F9F9F gray(159)
+         2: (160,160,160) #A0A0A0 gray(160)
+         2: (161,161,161) #A1A1A1 gray(161)
+         2: (162,162,162) #A2A2A2 gray(162)
+         4: (164,164,164) #A4A4A4 gray(164)
+        14: (165,165,165) #A5A5A5 gray(165)
+         2: (166,166,166) #A6A6A6 gray(166)
+       366: (167,167,167) #A7A7A7 gray(167)
+        13: (168,168,168) #A8A8A8 gray(168)
+         3: (169,169,169) #A9A9A9 gray(169)
+        18: (170,170,170) #AAAAAA gray(170)
+        12: (172,172,172) #ACACAC gray(172)
+         4: (173,173,173) #ADADAD gray(173)
+       354: (174,174,174) #AEAEAE gray(174)
+         3: (175,175,175) #AFAFAF gray(175)
+       728: (176,176,176) #B0B0B0 gray(176)
+         3: (177,177,177) #B1B1B1 gray(177)
+       359: (178,178,178) #B2B2B2 gray(178)
+       329: (179,179,179) #B3B3B3 gray(179)
+       349: (180,180,180) #B4B4B4 gray(180)
+       335: (181,181,181) #B5B5B5 gray(181)
+        30: (182,182,182) #B6B6B6 gray(182)
+         1: (183,183,183) #B7B7B7 gray(183)
+         1: (184,184,184) #B8B8B8 gray(184)
+         1: (185,185,185) #B9B9B9 gray(185)
+       329: (186,186,186) #BABABA gray(186)
+       309: (187,187,187) #BBBBBB gray(187)
+       312: (188,188,188) #BCBCBC gray(188)
+       314: (189,189,189) #BDBDBD gray(189)
+         2: (190,190,190) #BEBEBE gray(190)
+      9212: (191,191,191) #BFBFBF gray(191)
+       293: (192,192,192) #C0C0C0 gray(192)
+       294: (193,193,193) #C1C1C1 gray(193)
+       294: (195,195,195) #C3C3C3 gray(195)
+       296: (196,196,196) #C4C4C4 gray(196)
+       278: (197,197,197) #C5C5C5 gray(197)
+         2: (198,198,198) #C6C6C6 gray(198)
+       329: (199,199,199) #C7C7C7 gray(199)
+       328: (200,200,200) #C8C8C8 gray(200)
+       329: (201,201,201) #C9C9C9 gray(201)
+       328: (202,202,202) #CACACA gray(202)
+       361: (203,203,203) #CBCBCB gray(203)
+       363: (204,204,204) #CCCCCC gray(204)
+      1426: (205,205,205) #CDCDCD gray(205)
+        27: (206,206,206) #CECECE gray(206)
+         2: (208,208,208) #D0D0D0 gray(208)
+         2: (210,210,210) #D2D2D2 gray(210)
+         1: (212,212,212) #D4D4D4 gray(212)
+         2: (213,213,213) #D5D5D5 gray(213)
+         7: (214,214,214) #D6D6D6 gray(214)
+         1: (215,215,215) #D7D7D7 gray(215)
+         2: (216,216,216) #D8D8D8 gray(216)
+        27: (217,217,217) #D9D9D9 gray(217)
+         1: (218,218,218) #DADADA gray(218)
+         6: (219,219,219) #DBDBDB gray(219)
+         5: (225,225,225) #E1E1E1 gray(225)
+        89: (226,226,226) #E2E2E2 gray(226)
+         3: (227,227,227) #E3E3E3 gray(227)
+         1: (229,229,229) #E5E5E5 gray(229)
+         4: (232,232,232) #E8E8E8 gray(232)
+    109606: (239,239,239) #EFEFEF gray(239)
+         1: (246,246,246) #F6F6F6 gray(246)
+         5: (249,249,249) #F9F9F9 gray(249)
+         1: (251,251,251) #FBFBFB gray(251)
+         6: (252,252,252) #FCFCFC gray(252)
+       822: (254,254,254) #FEFEFE gray(254)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: gray(255)
+  Border color: gray(223)
+  Matte color: gray(189)
+  Transparent color: gray(0)
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 363x382+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 1 of 6
+  Compression: LZW
+  Orientation: TopLeft
+  Properties:
+    date:create: 2018-07-04T12:25:01+01:00
+    date:modify: 2018-07-04T12:25:01+01:00
+    signature: adbf9c98beda1862e0d88af6ad1520048098f3d8cf617a2a4a6260ce9dd24e5a
+    tiff:alpha: unspecified
+    tiff:endian: lsb
+    tiff:photometric: RGB
+    tiff:rows-per-strip: 382
+  Artifacts:
+    filename: Multi_page24bpp.tif
+    verbose: true
+  Tainted: False
+  Filesize: 73.9KB
+  Number pixels: 139K
+  Pixels per second: 2.311MB
+  User time: 0.060u
+  Elapsed time: 0:01.059
+  Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-06-11 http://www.imagemagick.org
+Image: Multi_page24bpp.tif
+  Format: TIFF (Tagged Image File Format)
+  Mime type: image/tiff
+  Class: DirectClass
+  Geometry: 363x382+0+0
+  Resolution: 96x96
+  Print size: 3.78125x3.97917
+  Units: PixelsPerInch
+  Type: Bilevel
+  Endianess: LSB
+  Colorspace: Gray
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+  Channel statistics:
+    Pixels: 138666
+    Gray:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 231.75 (0.908824)
+      standard deviation: 73.4041 (0.287859)
+      kurtosis: 6.06813
+      skewness: -2.84045
+  Colors: 2
+  Histogram:
+     12643: (  0,  0,  0) #000000 gray(0)
+    126023: (255,255,255) #FFFFFF gray(255)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: gray(255)
+  Border color: gray(223)
+  Matte color: gray(189)
+  Transparent color: gray(0)
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 363x382+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 2 of 6
+  Compression: LZW
+  Orientation: TopLeft
+  Properties:
+    date:create: 2018-07-04T12:25:01+01:00
+    date:modify: 2018-07-04T12:25:01+01:00
+    signature: 9847d64928fe3f226ffea790f1b3eb96a4103f3113c8b895e21a9503bbf4088d
+    tiff:alpha: unspecified
+    tiff:endian: lsb
+    tiff:photometric: RGB
+    tiff:rows-per-strip: 382
+  Artifacts:
+    filename: Multi_page24bpp.tif
+    verbose: true
+  Tainted: False
+  Filesize: 73.9KB
+  Number pixels: 139K
+  Pixels per second: 1.387MB
+  User time: 0.090u
+  Elapsed time: 0:01.100
+  Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-06-11 http://www.imagemagick.org
+Image: Multi_page24bpp.tif
+  Format: TIFF (Tagged Image File Format)
+  Mime type: image/tiff
+  Class: DirectClass
+  Geometry: 363x382+0+0
+  Resolution: 96x96
+  Print size: 3.78125x3.97917
+  Units: PixelsPerInch
+  Type: Bilevel
+  Endianess: LSB
+  Colorspace: Gray
+  Depth: 8/1-bit
+  Channel depth:
+    gray: 1-bit
+  Channel statistics:
+    Pixels: 138666
+    Gray:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 231.75 (0.908824)
+      standard deviation: 73.4041 (0.287859)
+      kurtosis: 6.06813
+      skewness: -2.84045
+  Colors: 2
+  Histogram:
+     12643: (  0,  0,  0) #000000 gray(0)
+    126023: (255,255,255) #FFFFFF gray(255)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: gray(255)
+  Border color: gray(223)
+  Matte color: gray(189)
+  Transparent color: gray(0)
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 363x382+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 3 of 6
+  Compression: LZW
+  Orientation: TopLeft
+  Properties:
+    date:create: 2018-07-04T12:25:01+01:00
+    date:modify: 2018-07-04T12:25:01+01:00
+    signature: 3f2d0647636b5d0e8135d3fb9650435dbb3c3ff8a923bc77ad88efec54450b1b
+    tiff:alpha: unspecified
+    tiff:endian: lsb
+    tiff:photometric: RGB
+    tiff:rows-per-strip: 382
+  Artifacts:
+    filename: Multi_page24bpp.tif
+    verbose: true
+  Tainted: False
+  Filesize: 73.9KB
+  Number pixels: 139K
+  Pixels per second: 1.156MB
+  User time: 0.120u
+  Elapsed time: 0:01.120
+  Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-06-11 http://www.imagemagick.org
+Image: Multi_page24bpp.tif
+  Format: TIFF (Tagged Image File Format)
+  Mime type: image/tiff
+  Class: DirectClass
+  Geometry: 363x382+0+0
+  Resolution: 96x96
+  Print size: 3.78125x3.97917
+  Units: PixelsPerInch
+  Type: Palette
+  Endianess: LSB
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 138666
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 217.256 (0.851983)
+      standard deviation: 59.4639 (0.233192)
+      kurtosis: 7.64527
+      skewness: -2.94357
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 217.864 (0.85437)
+      standard deviation: 59.9424 (0.235068)
+      kurtosis: 8.20855
+      skewness: -3.07688
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 223.011 (0.874555)
+      standard deviation: 54.1348 (0.212293)
+      kurtosis: 11.661
+      skewness: -3.5853
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 219.377 (0.860303)
+      standard deviation: 57.9069 (0.227086)
+      kurtosis: 9.00897
+      skewness: -3.18826
+  Colors: 157
+  Histogram:
+      5962: (  0,  0,  0) #000000 black
+      1845: (  0,  0,255) #0000FF blue
+         2: ( 20, 22, 22) #141616 srgb(20,22,22)
+         1: ( 24, 24, 24) #181818 srgb(24,24,24)
+         1: ( 27, 67, 74) #1B434A srgb(27,67,74)
+         2: ( 28, 28, 28) #1C1C1C grey11
+         1: ( 28, 84, 91) #1C545B srgb(28,84,91)
+       362: ( 40,207,228) #28CFE4 srgb(40,207,228)
+       396: ( 52, 52, 52) #343434 srgb(52,52,52)
+       354: ( 63,206,242) #3FCEF2 srgb(63,206,242)
+         2: ( 66, 66, 66) #424242 grey26
+         1: ( 66,207,242) #42CFF2 srgb(66,207,242)
+        80: ( 67, 20, 34) #431422 srgb(67,20,34)
+         1: ( 68,207,242) #44CFF2 srgb(68,207,242)
+         1: ( 71,208,242) #47D0F2 srgb(71,208,242)
+         1: ( 74,209,243) #4AD1F3 srgb(74,209,243)
+         1: ( 78,210,242) #4ED2F2 srgb(78,210,242)
+         4: ( 79, 38, 53) #4F2635 srgb(79,38,53)
+         2: ( 80, 41, 56) #502938 srgb(80,41,56)
+         1: ( 82,211,242) #52D3F2 srgb(82,211,242)
+        32: ( 83, 86,102) #535666 srgb(83,86,102)
+         1: ( 86,212,242) #56D4F2 srgb(86,212,242)
+         1: ( 91,213,243) #5BD5F3 srgb(91,213,243)
+         2: ( 93, 61, 77) #5D3D4D srgb(93,61,77)
+         1: ( 95,213,243) #5FD5F3 srgb(95,213,243)
+       192: (100,100,100) #646464 srgb(100,100,100)
+         1: (100,215,243) #64D7F3 srgb(100,215,243)
+        93: (105,105,105) #696969 DimGray
+         1: (105,217,243) #69D9F3 srgb(105,217,243)
+         1: (110,218,243) #6EDAF3 srgb(110,218,243)
+         1: (115,219,243) #73DBF3 srgb(115,219,243)
+         1: (121,220,244) #79DCF4 srgb(121,220,244)
+         1: (125,221,244) #7DDDF4 srgb(125,221,244)
+         2: (130, 77, 75) #824D4B srgb(130,77,75)
+         2: (131, 81, 78) #83514E srgb(131,81,78)
+         1: (131,222,244) #83DEF4 srgb(131,222,244)
+         2: (133, 85, 83) #855553 srgb(133,85,83)
+         1: (135, 90, 89) #875A59 srgb(135,90,89)
+         1: (135,224,244) #87E0F4 srgb(135,224,244)
+         4: (138, 95, 95) #8A5F5F srgb(138,95,95)
+         1: (143,143,143) #8F8F8F grey56
+         2: (148,116,117) #947475 srgb(148,116,117)
+         2: (149,117,119) #957577 srgb(149,117,119)
+         1: (150,119,121) #967779 srgb(150,119,121)
+         4: (151,122,124) #977A7C srgb(151,122,124)
+       355: (152,180,208) #98B4D0 srgb(152,180,208)
+       357: (153,180,209) #99B4D1 srgb(153,180,209)
+       359: (154,182,210) #9AB6D2 srgb(154,182,210)
+         2: (155,159,181) #9B9FB5 srgb(155,159,181)
+       328: (155,183,211) #9BB7D3 srgb(155,183,211)
+         1: (156,229,244) #9CE5F4 srgb(156,229,244)
+       328: (157,184,212) #9DB8D4 srgb(157,184,212)
+       328: (158,185,212) #9EB9D4 srgb(158,185,212)
+        89: (160,160,160) #A0A0A0 srgb(160,160,160)
+         2: (160,166,188) #A0A6BC srgb(160,166,188)
+         1: (161,230,244) #A1E6F4 srgb(161,230,244)
+       328: (164,190,217) #A4BED9 srgb(164,190,217)
+       309: (165,191,218) #A5BFDA srgb(165,191,218)
+         1: (166,231,244) #A6E7F4 srgb(166,231,244)
+       312: (167,192,220) #A7C0DC srgb(167,192,220)
+       313: (168,193,221) #A8C1DD srgb(168,193,221)
+       286: (169,195,221) #A9C3DD srgb(169,195,221)
+         1: (169,214,224) #A9D6E0 srgb(169,214,224)
+         1: (170,233,245) #AAE9F5 srgb(170,233,245)
+        16: (171,171,171) #ABABAB grey67
+       293: (171,196,223) #ABC4DF srgb(171,196,223)
+       293: (172,197,224) #ACC5E0 srgb(172,197,224)
+       293: (174,199,225) #AEC7E1 srgb(174,199,225)
+       296: (176,200,226) #B0C8E2 srgb(176,200,226)
+       277: (177,201,228) #B1C9E4 srgb(177,201,228)
+       328: (178,203,229) #B2CBE5 srgb(178,203,229)
+       328: (179,204,230) #B3CCE6 srgb(179,204,230)
+       328: (180,205,230) #B4CDE6 srgb(180,205,230)
+       328: (181,206,231) #B5CEE7 srgb(181,206,231)
+       359: (183,207,232) #B7CFE8 srgb(183,207,232)
+        20: (184, 67, 44) #B8432C srgb(184,67,44)
+       359: (184,208,233) #B8D0E9 srgb(184,208,233)
+         1: (185,185,185) #B9B9B9 srgb(185,185,185)
+      1426: (185,209,234) #B9D1EA srgb(185,209,234)
+         2: (186, 73, 51) #BA4933 srgb(186,73,51)
+         2: (186, 74, 51) #BA4A33 srgb(186,74,51)
+         2: (186,154,155) #BA9A9B srgb(186,154,155)
+         5: (187, 73, 51) #BB4933 srgb(187,73,51)
+         2: (187, 73, 52) #BB4934 srgb(187,73,52)
+         4: (187, 74, 51) #BB4A33 srgb(187,74,51)
+         3: (187, 74, 52) #BB4A34 srgb(187,74,52)
+         2: (188,154,155) #BC9A9B srgb(188,154,155)
+         1: (191, 83, 61) #BF533D srgb(191,83,61)
+        15: (191, 83, 62) #BF533E srgb(191,83,62)
+      8925: (192,192,192) #C0C0C0 silver
+         1: (193,238,245) #C1EEF5 srgb(193,238,245)
+         2: (195, 94, 75) #C35E4B srgb(195,94,75)
+         8: (196, 94, 74) #C45E4A srgb(196,94,74)
+         2: (196, 94, 75) #C45E4B srgb(196,94,75)
+         4: (196, 95, 74) #C45F4A srgb(196,95,74)
+         1: (201,105, 87) #C96957 srgb(201,105,87)
+         8: (201,106, 87) #C96A57 srgb(201,106,87)
+         8: (201,106, 88) #C96A58 srgb(201,106,88)
+        26: (206,117,100) #CE7564 srgb(206,117,100)
+         1: (206,117,101) #CE7565 srgb(206,117,101)
+         5: (210,126,110) #D27E6E srgb(210,126,110)
+         8: (210,126,111) #D27E6F srgb(210,126,111)
+         4: (210,127,110) #D27F6E srgb(210,127,110)
+         5: (210,127,111) #D27F6F srgb(210,127,111)
+         1: (210,240,247) #D2F0F7 srgb(210,240,247)
+         3: (211,126,111) #D37E6F srgb(211,126,111)
+         1: (211,127,110) #D37F6E srgb(211,127,110)
+         1: (211,127,111) #D37F6F srgb(211,127,111)
+         6: (215,215,215) #D7D7D7 srgb(215,215,215)
+         4: (217,154,142) #D99A8E srgb(217,154,142)
+         2: (218,157,145) #DA9D91 srgb(218,157,145)
+         1: (219,233,236) #DBE9EC srgb(219,233,236)
+         6: (220,220,220) #DCDCDC gainsboro
+         2: (221,163,152) #DDA398 srgb(221,163,152)
+         2: (223,148,135) #DF9487 srgb(223,148,135)
+        10: (223,149,135) #DF9587 srgb(223,149,135)
+         2: (224,148,135) #E09487 srgb(224,148,135)
+         4: (224,149,135) #E09587 srgb(224,149,135)
+         2: (224,171,160) #E0ABA0 srgb(224,171,160)
+         1: (225,152,139) #E1988B srgb(225,152,139)
+         1: (225,152,140) #E1988C srgb(225,152,140)
+         9: (225,153,139) #E1998B srgb(225,153,139)
+         1: (225,153,140) #E1998C srgb(225,153,140)
+         1: (226,152,139) #E2988B srgb(226,152,139)
+         3: (226,153,139) #E2998B srgb(226,153,139)
+         5: (226,226,226) #E2E2E2 srgb(226,226,226)
+         2: (227,157,144) #E39D90 srgb(227,157,144)
+         1: (227,158,144) #E39E90 srgb(227,158,144)
+        89: (227,227,227) #E3E3E3 grey89
+        10: (228,157,144) #E49D90 srgb(228,157,144)
+         3: (228,158,144) #E49E90 srgb(228,158,144)
+         2: (228,180,171) #E4B4AB srgb(228,180,171)
+         2: (228,228,228) #E4E4E4 srgb(228,228,228)
+         1: (229,162,149) #E5A295 srgb(229,162,149)
+        14: (230,162,149) #E6A295 srgb(230,162,149)
+         2: (230,163,149) #E6A395 srgb(230,163,149)
+         6: (231,166,153) #E7A699 srgb(231,166,153)
+        12: (232,166,153) #E8A699 srgb(232,166,153)
+         2: (232,166,154) #E8A69A srgb(232,166,154)
+         7: (232,167,153) #E8A799 srgb(232,167,153)
+         2: (232,189,181) #E8BDB5 srgb(232,189,181)
+        27: (233,169,156) #E9A99C srgb(233,169,156)
+         3: (233,233,233) #E9E9E9 srgb(233,233,233)
+        27: (236,198,192) #ECC6C0 srgb(236,198,192)
+         4: (237,196,189) #EDC4BD srgb(237,196,189)
+         2: (239,200,193) #EFC8C1 srgb(239,200,193)
+         2: (240,203,196) #F0CBC4 srgb(240,203,196)
+    109606: (240,240,240) #F0F0F0 grey94
+         2: (242,206,200) #F2CEC8 srgb(242,206,200)
+         2: (243,209,202) #F3D1CA srgb(243,209,202)
+        27: (244,211,204) #F4D3CC srgb(244,211,204)
+         1: (247,247,247) #F7F7F7 grey97
+         5: (250,250,250) #FAFAFA grey98
+         1: (252,252,252) #FCFCFC grey99
+         6: (253,253,253) #FDFDFD srgb(253,253,253)
+       843: (255,  0,  0) #FF0000 red
+       822: (255,255,255) #FFFFFF white
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 363x382+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 4 of 6
+  Compression: LZW
+  Orientation: TopLeft
+  Properties:
+    date:create: 2018-07-04T12:25:01+01:00
+    date:modify: 2018-07-04T12:25:01+01:00
+    signature: 4281cc379f68af58c899287b5952036848dcd382eecf084f5e96529d8b15dd0a
+    tiff:alpha: unspecified
+    tiff:endian: lsb
+    tiff:photometric: RGB
+    tiff:rows-per-strip: 382
+  Artifacts:
+    filename: Multi_page24bpp.tif
+    verbose: true
+  Tainted: False
+  Filesize: 73.9KB
+  Number pixels: 139K
+  Pixels per second: 924KB
+  User time: 0.150u
+  Elapsed time: 0:01.150
+  Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-06-11 http://www.imagemagick.org
+Image: Multi_page24bpp.tif
+  Format: TIFF (Tagged Image File Format)
+  Mime type: image/tiff
+  Class: DirectClass
+  Geometry: 363x382+0+0
+  Resolution: 96x96
+  Print size: 3.78125x3.97917
+  Units: PixelsPerInch
+  Type: Palette
+  Endianess: LSB
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 138666
+    Red:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 37.7444 (0.148017)
+      standard deviation: 59.4639 (0.233192)
+      kurtosis: 7.64527
+      skewness: 2.94357
+    Green:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 37.1356 (0.14563)
+      standard deviation: 59.9424 (0.235068)
+      kurtosis: 8.20855
+      skewness: 3.07688
+    Blue:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 31.9886 (0.125445)
+      standard deviation: 54.1348 (0.212293)
+      kurtosis: 11.661
+      skewness: 3.5853
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 35.6228 (0.139697)
+      standard deviation: 57.9069 (0.227086)
+      kurtosis: 9.00897
+      skewness: 3.18826
+  Colors: 157
+  Histogram:
+       822: (  0,  0,  0) #000000 black
+       843: (  0,255,255) #00FFFF cyan
+         6: (  2,  2,  2) #020202 srgb(2,2,2)
+         1: (  3,  3,  3) #030303 grey1
+         5: (  5,  5,  5) #050505 grey2
+         1: (  8,  8,  8) #080808 grey3
+        27: ( 11, 44, 51) #0B2C33 srgb(11,44,51)
+         2: ( 12, 46, 53) #0C2E35 srgb(12,46,53)
+         2: ( 13, 49, 55) #0D3137 srgb(13,49,55)
+    109606: ( 15, 15, 15) #0F0F0F grey6
+         2: ( 15, 52, 59) #0F343B srgb(15,52,59)
+         2: ( 16, 55, 62) #10373E srgb(16,55,62)
+         4: ( 18, 59, 66) #123B42 srgb(18,59,66)
+        27: ( 19, 57, 63) #13393F srgb(19,57,63)
+         3: ( 22, 22, 22) #161616 srgb(22,22,22)
+        27: ( 22, 86, 99) #165663 srgb(22,86,99)
+         2: ( 23, 66, 74) #17424A srgb(23,66,74)
+         7: ( 23, 88,102) #175866 srgb(23,88,102)
+         2: ( 23, 89,101) #175965 srgb(23,89,101)
+        12: ( 23, 89,102) #175966 srgb(23,89,102)
+         6: ( 24, 89,102) #185966 srgb(24,89,102)
+         2: ( 25, 92,106) #195C6A srgb(25,92,106)
+        14: ( 25, 93,106) #195D6A srgb(25,93,106)
+         1: ( 26, 93,106) #1A5D6A srgb(26,93,106)
+         2: ( 27, 27, 27) #1B1B1B srgb(27,27,27)
+         2: ( 27, 75, 84) #1B4B54 srgb(27,75,84)
+         3: ( 27, 97,111) #1B616F srgb(27,97,111)
+        10: ( 27, 98,111) #1B626F srgb(27,98,111)
+        89: ( 28, 28, 28) #1C1C1C grey11
+         1: ( 28, 97,111) #1C616F srgb(28,97,111)
+         2: ( 28, 98,111) #1C626F srgb(28,98,111)
+         5: ( 29, 29, 29) #1D1D1D srgb(29,29,29)
+         3: ( 29,102,116) #1D6674 srgb(29,102,116)
+         1: ( 29,103,116) #1D6774 srgb(29,103,116)
+         1: ( 30,102,115) #1E6673 srgb(30,102,115)
+         9: ( 30,102,116) #1E6674 srgb(30,102,116)
+         1: ( 30,103,115) #1E6773 srgb(30,103,115)
+         1: ( 30,103,116) #1E6774 srgb(30,103,116)
+         2: ( 31, 84, 95) #1F545F srgb(31,84,95)
+         4: ( 31,106,120) #1F6A78 srgb(31,106,120)
+         2: ( 31,107,120) #1F6B78 srgb(31,107,120)
+        10: ( 32,106,120) #206A78 srgb(32,106,120)
+         2: ( 32,107,120) #206B78 srgb(32,107,120)
+         2: ( 34, 92,103) #225C67 srgb(34,92,103)
+         6: ( 35, 35, 35) #232323 srgb(35,35,35)
+         1: ( 36, 22, 19) #241613 srgb(36,22,19)
+         2: ( 37, 98,110) #25626E srgb(37,98,110)
+         4: ( 38,101,113) #266571 srgb(38,101,113)
+         6: ( 40, 40, 40) #282828 srgb(40,40,40)
+         1: ( 44,128,144) #2C8090 srgb(44,128,144)
+         1: ( 44,128,145) #2C8091 srgb(44,128,145)
+         3: ( 44,129,144) #2C8190 srgb(44,129,144)
+         1: ( 45, 15,  8) #2D0F08 srgb(45,15,8)
+         5: ( 45,128,144) #2D8090 srgb(45,128,144)
+         4: ( 45,128,145) #2D8091 srgb(45,128,145)
+         8: ( 45,129,144) #2D8190 srgb(45,129,144)
+         5: ( 45,129,145) #2D8191 srgb(45,129,145)
+         1: ( 49,138,154) #318A9A srgb(49,138,154)
+        26: ( 49,138,155) #318A9B srgb(49,138,155)
+         8: ( 54,149,167) #3695A7 srgb(54,149,167)
+         8: ( 54,149,168) #3695A8 srgb(54,149,168)
+         1: ( 54,150,168) #3696A8 srgb(54,150,168)
+         4: ( 59,160,181) #3BA0B5 srgb(59,160,181)
+         2: ( 59,161,180) #3BA1B4 srgb(59,161,180)
+         8: ( 59,161,181) #3BA1B5 srgb(59,161,181)
+         2: ( 60,161,180) #3CA1B4 srgb(60,161,180)
+         1: ( 62, 17, 10) #3E110A srgb(62,17,10)
+      8925: ( 63, 63, 63) #3F3F3F srgb(63,63,63)
+        15: ( 64,172,193) #40ACC1 srgb(64,172,193)
+         1: ( 64,172,194) #40ACC2 srgb(64,172,194)
+         2: ( 67,101,100) #436564 srgb(67,101,100)
+         3: ( 68,181,203) #44B5CB srgb(68,181,203)
+         4: ( 68,181,204) #44B5CC srgb(68,181,204)
+         2: ( 68,182,203) #44B6CB srgb(68,182,203)
+         5: ( 68,182,204) #44B6CC srgb(68,182,204)
+         2: ( 69,101,100) #456564 srgb(69,101,100)
+         2: ( 69,181,204) #45B5CC srgb(69,181,204)
+         2: ( 69,182,204) #45B6CC srgb(69,182,204)
+      1426: ( 70, 46, 21) #462E15 srgb(70,46,21)
+         1: ( 70, 70, 70) #464646 srgb(70,70,70)
+       359: ( 71, 47, 22) #472F16 srgb(71,47,22)
+        20: ( 71,188,211) #47BCD3 srgb(71,188,211)
+       359: ( 72, 48, 23) #483017 srgb(72,48,23)
+       328: ( 74, 49, 24) #4A3118 srgb(74,49,24)
+       328: ( 75, 50, 25) #4B3219 srgb(75,50,25)
+       328: ( 76, 51, 25) #4C3319 srgb(76,51,25)
+       328: ( 77, 52, 26) #4D341A srgb(77,52,26)
+       277: ( 78, 54, 27) #4E361B srgb(78,54,27)
+       296: ( 79, 55, 29) #4F371D srgb(79,55,29)
+       293: ( 81, 56, 30) #51381E srgb(81,56,30)
+       293: ( 83, 58, 31) #533A1F srgb(83,58,31)
+       293: ( 84, 59, 32) #543B20 srgb(84,59,32)
+        16: ( 84, 84, 84) #545454 grey33
+         1: ( 85, 22, 10) #55160A srgb(85,22,10)
+         1: ( 86, 41, 31) #56291F srgb(86,41,31)
+       286: ( 86, 60, 34) #563C22 srgb(86,60,34)
+       313: ( 87, 62, 34) #573E22 srgb(87,62,34)
+       312: ( 88, 63, 35) #583F23 srgb(88,63,35)
+         1: ( 89, 24, 11) #59180B srgb(89,24,11)
+       309: ( 90, 64, 37) #5A4025 srgb(90,64,37)
+       328: ( 91, 65, 38) #5B4126 srgb(91,65,38)
+         1: ( 94, 25, 11) #5E190B srgb(94,25,11)
+         2: ( 95, 89, 67) #5F5943 srgb(95,89,67)
+        89: ( 95, 95, 95) #5F5F5F srgb(95,95,95)
+       328: ( 97, 70, 43) #61462B srgb(97,70,43)
+       328: ( 98, 71, 43) #62472B srgb(98,71,43)
+         1: ( 99, 26, 11) #631A0B srgb(99,26,11)
+       328: (100, 72, 44) #64482C srgb(100,72,44)
+         2: (100, 96, 74) #64604A srgb(100,96,74)
+       359: (101, 73, 45) #65492D srgb(101,73,45)
+       357: (102, 75, 46) #664B2E srgb(102,75,46)
+       355: (103, 75, 47) #674B2F srgb(103,75,47)
+         4: (104,133,131) #688583 srgb(104,133,131)
+         1: (105,136,134) #698886 srgb(105,136,134)
+         2: (106,138,136) #6A8A88 srgb(106,138,136)
+         2: (107,139,138) #6B8B8A srgb(107,139,138)
+         1: (112,112,112) #707070 grey44
+         4: (117,160,160) #75A0A0 srgb(117,160,160)
+         1: (120, 31, 11) #781F0B srgb(120,31,11)
+         1: (120,165,166) #78A5A6 srgb(120,165,166)
+         2: (122,170,172) #7AAAAC srgb(122,170,172)
+         1: (124, 33, 11) #7C210B srgb(124,33,11)
+         2: (124,174,177) #7CAEB1 srgb(124,174,177)
+         2: (125,178,180) #7DB2B4 srgb(125,178,180)
+         1: (130, 34, 11) #82220B srgb(130,34,11)
+         1: (134, 35, 11) #86230B srgb(134,35,11)
+         1: (140, 36, 12) #8C240C srgb(140,36,12)
+         1: (145, 37, 12) #91250C srgb(145,37,12)
+         1: (150, 38, 12) #96260C srgb(150,38,12)
+        93: (150,150,150) #969696 grey59
+         1: (155, 40, 12) #9B280C srgb(155,40,12)
+       192: (155,155,155) #9B9B9B srgb(155,155,155)
+         1: (160, 42, 12) #A02A0C srgb(160,42,12)
+         2: (162,194,178) #A2C2B2 srgb(162,194,178)
+         1: (164, 42, 12) #A42A0C srgb(164,42,12)
+         1: (169, 43, 13) #A92B0D srgb(169,43,13)
+        32: (172,169,153) #ACA999 srgb(172,169,153)
+         1: (173, 44, 13) #AD2C0D srgb(173,44,13)
+         2: (175,214,199) #AFD6C7 srgb(175,214,199)
+         4: (176,217,202) #B0D9CA srgb(176,217,202)
+         1: (177, 45, 13) #B12D0D srgb(177,45,13)
+         1: (181, 46, 12) #B52E0C srgb(181,46,12)
+         1: (184, 47, 13) #B82F0D srgb(184,47,13)
+         1: (187, 48, 13) #BB300D srgb(187,48,13)
+        80: (188,235,221) #BCEBDD srgb(188,235,221)
+         1: (189, 48, 13) #BD300D srgb(189,48,13)
+         2: (189,189,189) #BDBDBD grey74
+       354: (192, 49, 13) #C0310D srgb(192,49,13)
+       396: (203,203,203) #CBCBCB srgb(203,203,203)
+       362: (215, 48, 27) #D7301B srgb(215,48,27)
+         1: (227,171,164) #E3ABA4 srgb(227,171,164)
+         2: (227,227,227) #E3E3E3 grey89
+         1: (228,188,181) #E4BCB5 srgb(228,188,181)
+         1: (231,231,231) #E7E7E7 srgb(231,231,231)
+         2: (235,233,233) #EBE9E9 srgb(235,233,233)
+      1845: (255,255,  0) #FFFF00 yellow
+      5962: (255,255,255) #FFFFFF white
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 363x382+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 5 of 6
+  Compression: LZW
+  Orientation: TopLeft
+  Properties:
+    date:create: 2018-07-04T12:25:01+01:00
+    date:modify: 2018-07-04T12:25:01+01:00
+    signature: 3ed533bd9f16dbc8a13a7a1de62fa98687b90a05af810d0ae9b63918abc00c30
+    tiff:alpha: unspecified
+    tiff:endian: lsb
+    tiff:photometric: RGB
+    tiff:rows-per-strip: 382
+  Artifacts:
+    filename: Multi_page24bpp.tif
+    verbose: true
+  Tainted: False
+  Filesize: 73.9KB
+  Number pixels: 139K
+  Pixels per second: 693KB
+  User time: 0.200u
+  Elapsed time: 0:01.200
+  Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-06-11 http://www.imagemagick.org
