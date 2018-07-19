@@ -99,6 +99,7 @@ WAVE/Broadcast WAV/FLAC?
 #### Access Format
 MP3 UNHCR to choose bit rate / quality?
 ### Properties
+
 | Property             | Measured With | Example |
 | -------------------- | ------------- | ------- |
 | Duration | mediainfo | Duration : 2mn 9s |
