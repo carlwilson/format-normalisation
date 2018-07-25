@@ -1,103 +1,20 @@
 # Audio Files
 
 ## Source formats
+| Format | PUIDS | Ext | MIME |
+|--------|-------|-----|------|
+| Advanced Audio Encoding |  | `.m4a`<br/>`.mp4`<br/>`.3gp`<br/>`.m4b`<br/>`.m4p`<br/>`.m4r`<br/>`.m4v`<br/>`.aac` | `audio/aac`<br/>`audio/aacp`<br/>`audio/3gpp`<br/>`audio/3gpp2`<br/>`audio/mp4`<br/>`audio/mp4a-latm`<br/>`audio/mpeg4-generic` |
+| Apple Lossless Audio Encoding | | `.m4a`<br/>`.caf` | `audio/m4a` |
+| Free Lossless Audio Encoding | | `.flac` | `audio/flac` |
+| MPEG-1 Audio Layer III | | `.mp3` | `audio/mpeg`<br/>`audio/MPA`<br/>`audio/mpa-roubust` |
+| Vorbis |  | `.ogg` | `application/ogg`<br/>`audio/ogg`<br/>`audio/vorbis`<br/>`audio/vorbis-config`
+| Waveform Audio File Format |  | `.wav`<br/>`.wave` | `audio/vnd.wave`<br/>`audio/wav`<br/>`audio/wave`<br/>`audio/x-wav` |
 
-### Advanced Audio Encoding
-
-#### MIME
-```
-audio/aac
-audio/aacp
-audio/3gpp
-audio/3gpp2
-audio/mp4
-audio/mp4a-latm
-audio/mpeg4-generic
-```
-#### PRONOM IDs
-```
-```
-#### Extensions
-```
-.m4a
-.mp4
-.3gp
-.m4b
-.m4p
-.m4r
-.m4v
-.aac
-```
-
-#### Apple Lossless Audio Encoding
-#### MIME
-`audio/m4a`
-#### PRONOM IDs
-```
-```
-#### Extensions
-```
-.m4a
-.caf
-```
-
-#### Free Lossless Audio Encoding
-#### MIME
-`audio/flac`
-#### PRONOM IDs
-```
-```
-#### Extensions
-`.flac`
-
-#### MPEG-1 Audio Layer III
-#### MIME
-```
-audio/mpeg
-audio/MPA
-audio/mpa-roubust
-```
-#### PRONOM IDs
-```
-```
-#### Extensions
-`.mp3`
-
-#### Vorbis
-#### MIME
-```
-application/ogg
-audio/ogg
-audio/vorbis
-audio/vorbis-config
-```
-#### PRONOM IDs
-```
-```
-#### Extensions
-`.ogg`
-
-#### Waveform Audio File Format
-#### MIME
-```
-audio/vnd.wave
-audio/wav
-audio/wave
-audio/x-wav
-```
-#### PRONOM IDs
-```
-```
-#### Extensions
-```
-.wav
-.wave
-```
-
-#### Preservtion Format
-WAVE/Broadcast WAV/FLAC?
+### Target Formats
+#### Preservation Format
+FLAC
 #### Access Format
-MP3 UNHCR to choose bit rate / quality?
+MP3 192KBps (VBR)
 ### Properties
 
 | Property             | Measured With | Example |
@@ -133,12 +50,13 @@ Stream size                              : 38.2 MiB (100%)
 
 #### Normalisation
 Notes: Use `lame` encoder for best compression & audio quality, may require LAME MP3 library installation.
-TODO: Choose audio quality option, `-aq 0` currently gives variable bit rate MP3s at 320Kbps, `-aq 2` 192Kbps might be appropriate
+
+Audio quality option, `-aq 2` approx 192Kbps VBR
 
 ```
-ffmpeg -i "<filename>.flac" -acodec libmp3lame -aq 0 "<filename>.mp3"
+ffmpeg -i "<filename>.flac" -acodec libmp3lame -aq 2 "<filename>.mp3"
 Input #0, flac, from '07 - E questa vita un lampo.flac': [413/699]
-  Metadata:
+  Metadata
     ARTIST          : Elin Manahan Thomas, Grace Davidson, Jeremy Budd, Mark Dobell, Stuart Young, The Sixteen, Harry Christophers
     ALBUM           : Monteverdi: Selva morale e spirituale Volume III
     TITLE           : È questa vita un lampo
