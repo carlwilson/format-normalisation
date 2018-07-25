@@ -2,141 +2,136 @@
 
 ## Source formats
 
-### Windows Bitmap
+| Format | PUIDS | Ext | MIME |
+|--------|-------|-----|------|
+| Windows Bitmap | `fmt/114  1.0`<br/>`fmt/115  2.0`<br/>`fmt/116  3.0`<br/>`fmt/117  3.0 NT`<br/>`fmt/118  4.0`<br/>`fmt/119  5.0` | `.bmp` | `image/bmp` |
+| Graphics Interchange Format | `fmt/3  87a`<br/>`fmt/4  89a` | `.gif` | `image/gif` |
+| JPEG | `fmt/42  1.00`<br/>`fmt/43  1.01`<br/>`fmt/44  1.02` | `.jpg`<br/>`.jpeg`<br/>`.jpe` | `image/jpeg` |
+| Tagged Image File Format | `fmt/353  TIFF`<br/>`fmt/152  DNG`<br/>`fmt/153  TIFF/IT`<br/>`fmt/154  TIFF/EP`<br/>`fmt/155  GeoTIFF`<br/>`fmt/156  TIFF-FX` | `.dng`<br/>`.tif`<br/>`.tiff` | `image/tiff` |
+| Portable Network Graphics | `fmt/11  1.0`<br/>`fmt/12  1.1`<br/>`fmt/13  1.2` | `.png` | `image/png` |
 
-#### MIME
-`image/bmp`
-#### PRONOM IDs
-```
-fmt/114    1.0
-fmt/115    2.0
-fmt/116    3.0
-fmt/117    3.0 NT
-fmt/118    4.0
-fmt/119    5.0
-```
-#### Extensions
-`.bmp`
-
-#### Graphics Interchange Format
-TODO: Animated GIFs?
-#### MIME
-`image/gif`
-#### PRONOM IDs
-```
-fmt/3   87a
-fmt/4   89a
-```
-#### Extensions
-`.gif`
-
-#### JPEG
-#### MIME
-`image/jpeg`
-#### PRONOM IDs
-```
-fmt/42   1.00
-fmt/43   1.01
-fmt/44   1.02
-```
-#### Extensions
-`.jpg`
-`.jpeg`
-`.jpe`
-
-#### Tagged Image File Format
-#### MIME
+### RAW Image Formats
 `image/tiff`
-#### PRONOM IDs
-```
-fmt/353   TIFF
-fmt/152   DNG
-fmt/153   TIFF/IT
-fmt/154   TIFF/EP
-fmt/155   GeoTIFF
-fmt/156   TIFF-FX
-```
-#### Extensions
-```
-.dng
-.tif
-.tiff
-```
 
-#### Portable Network Graphics
-#### MIME
-`image/png`
-#### PRONOM IDs
-```
-fmt/11    1.0
-fmt/12    1.1
-fmt/13    1.2
-```
-#### Extensions
-`.png`
+| Name | PUID | Ext |
+| ---- | ---- | --- |
+|  Canon 1.0 | `fmt/593` | `.crw` |
+| Canon 2.0 | `fmt/592` | `.cr2` |
+| Epson | `fmt/641` | `.erf` |
+| FujiFilm | `fmt/642` | `.raf` |
+| Hasselblad | `fmt/1062` | `.3fr` |
+| Kodak | `fmt/192` | `.dcr` |
+| Minolta | `fmt/669` | `.mrw` |    
+| Nikon | `fmt/202` | `.nef`, `.nrw` |
+| Olympus | `fmt/668` | `.orf` |
+| Panasonic | `fmt/662` | `rw2` |
+| Sony ARW v1.x | `fmt/191` | `.arw` |
+| Sony ARW v2.x | `fmt/1127` | .arw |
+| Sony SR2 | `fmt/1126` | `.sr2` |
 
-#### RAW Image Formats
-#### MIME
-`image/?`
-#### PRONOM IDs
-```
-fmt/185    Raw Bitmap
-fmt/191    Sony
-fmt/192    Kodak
-fmt/202    Nikon
-fmt/593    Canon 1.0
-fmt/592    Canon 2.0
-fmt/641    Epson
-fmt/642    FujiFilm
-fmt/662    Panasonic
-fmt/668    Olympus
-fmt/669    Minolta
-fmt/1062   Hasselblad
-fmt/1126   Sony SR2
-fmt/1127   Sony ARW
-```
-#### Extensions
-```
-.arw
-.crw
-.cr2
-.dcr
-.erf
-.mrw
-.nef
-.nrw
-.orf
-.raf
-.raw
-.3fr
-```
+## Target Formats
+### Preservtion Format
+TIFF
 
-#### Preservtion Format
-TIFF TODO: UNHCR define tiff version (`fmt/353`?)
-#### Access Format
-JPEG
-PDF/A container for JPEGs for multipage TIFFS
+- TODO: UNHCR define tiff version (`fmt/353`?)
+- TODO: Multi-stream TIFFs for all multi image stream files?
+
+### Access Formats
+JPEG for single image
+
+PDF/A container of JPEGs for multi-image stream files
 
 ### Properties
+These can be measured with the ImageMagick identify utility and compared across normalised versions and the original.
+
 | Property             | Measured With | Example |
 | -------------------- | ------------- | ------- |
-| /Structure/IsMulti   | Identify      | Identify will characterise every image stream in a multipage TIFF, the streams can be counted. |
-| ImageWidth           | Identify      | `Geometry: 363x382+0+0`|
-| ImageHeight          | Identify      | `Geometry: 363x382+0+0` |
-| X Sampling Frequency | Identify      | `Resolution: 96x96`<br/>`Units: PixelsPerInch`<br/>Note that this is a metadata field, not a property of the image.|
-| Y Sampling Frequency | Identify      | `Resolution: 96x96`<br/>`Units: PixelsPerInch`<br/>Note that this is a metadata field, not a property of the image. |
-| Bits per sample      | Identify      | `Depth: 8-bit`<br/>`Channel depth:`<br/>`  red: 8-bit`<br/>`  green: 8-bit`<br/>`blue: 8-bit` |
+| /Structure/IsMulti   | identify      | Identify will characterise every image stream in a multi-image file, the streams can be counted, see example below. |
+| ImageWidth           | identify -verbose | `Geometry: 363x382+0+0` |
+| ImageHeight          | identify -verbose | `Geometry: 363x382+0+0` |
+| X Sampling Frequency | identify -verbose | `Resolution: 96x96`<br/>`Units: PixelsPerInch`<br/>Note that this is a metadata field, not a property of the image.|
+| Y Sampling Frequency | identify -verbose | `Resolution: 96x96`<br/>`Units: PixelsPerInch`<br/>Note that this is a metadata field, not a property of the image. |
+| Bits per sample      | identify -verbose | `Depth: 8-bit`<br/>`Channel depth:`<br/>`  red: 8-bit`<br/>`  green: 8-bit`<br/>`blue: 8-bit` |
 | Samples per pixel    | ?      |         |
 | Extra Samples        | ?      |         |
 
-### Workflow
+## Tasks
 
-#### Characterisation
-[ImageMagick Identify](https://www.imagemagick.org/script/identify.php)
+### Characterisation
+ImageMagick Identify: https://www.imagemagick.org/script/identify.php
+```
+$ identify -version
+Version: ImageMagick 6.8.9-9 Q16 x86_64 2018-07-10 http://www.imagemagick.org
+Copyright: Copyright (C) 1999-2014 ImageMagick Studio LLC
+Features: DPC Modules OpenMP
+Delegates: bzlib cairo djvu fftw fontconfig freetype jbig jng jpeg lcms lqr ltdl lzma openexr pangocairo png rsvg tiff wmf x xml zlib
+```
+#### Identify multi-stream images
+##### Single image GIF
+```
+$ identify w3c_home.gif
+w3c_home.gif GIF 72x48 72x48+0+0 8-bit sRGB 64c 988B 0.000u 0:00.000
+```
+##### Dual image GIF
+```
+$ identify w3c_home_animation.gif
+w3c_home_animation.gif[0] GIF 72x48 72x48+0+0 8-bit sRGB 64c 1.93KB 0.000u 0:00.000
+w3c_home_animation.gif[1] GIF 72x37 72x48+0+4 8-bit sRGB 64c 1.93KB 0.000u 0:00.000
+```
+##### Single image TIFF
+```
+$ identify CCITT_1.TIF
+CCITT_1.TIF TIFF 1728x2376 1728x2376+0+0 1-bit Bilevel Gray 18.4KB 0.000u 0:00.000
+```
+##### Multi image TIFF
+```
+$ identify Multi_page24bpp.tif
+Multi_page24bpp.tif
+Multi_page24bpp.tif[0] TIFF 363x382 363x382+0+0 8-bit sRGB 73.9KB 0.000u 0:00.000
+Multi_page24bpp.tif[1] TIFF 363x382 363x382+0+0 8-bit sRGB 73.9KB 0.000u 0:00.009
+Multi_page24bpp.tif[2] TIFF 363x382 363x382+0+0 8-bit sRGB 73.9KB 0.000u 0:00.009
+Multi_page24bpp.tif[3] TIFF 363x382 363x382+0+0 8-bit sRGB 73.9KB 0.000u 0:00.009
+Multi_page24bpp.tif[4] TIFF 363x382 363x382+0+0 8-bit sRGB 73.9KB 0.000u 0:00.009
+Multi_page24bpp.tif[5] TIFF 363x382 363x382+0+0 8-bit sRGB 73.9KB 0.000u 0:00.009
+```
+### Normalisation
+ImageMagick Convert: https://www.imagemagick.org/script/convert.php
 
-#### Normalisation
-[ImageMagick Convert](https://www.imagemagick.org/script/convert.php)
+TODO: decide image quality for JPEG
 
+#### Convert to TIFF preservation derivative
+```
+convert -quality 80% <source> <target>.tiff
+```
+
+#### Convert to JPEG access derivative
+```
+convert -quality 80% <source> <target>.jpeg
+```
+
+#### Convert multi-image GIF (TIFF identical)
+```
+$ ls
+total 32K
+-rw-rw-r-- 1 cfw cfw 1.9K Jul 20 20:01 w3c_home_animation.gif
+
+$ convert -quality 80% w3c_home_animation.gif w3c_home_animation.jpeg
+
+$ ls
+total 32K
+-rw-rw-r-- 1 cfw cfw 1.8K Jul 20 21:47 w3c_home_animation-0.jpeg
+-rw-rw-r-- 1 cfw cfw 2.1K Jul 20 21:47 w3c_home_animation-1.jpeg
+-rw-rw-r-- 1 cfw cfw 1.9K Jul 20 20:01 w3c_home_animation.gif
+
+$ convert w3c_home_animation*.jpeg w3c_home_animation.pdf
+
+$ ls
+total 32K
+-rw-rw-r-- 1 cfw cfw 1.8K Jul 20 21:47 w3c_home_animation-0.jpeg
+-rw-rw-r-- 1 cfw cfw 2.1K Jul 20 21:47 w3c_home_animation-1.jpeg
+-rw-rw-r-- 1 cfw cfw 1.9K Jul 20 20:01 w3c_home_animation.gif
+-rw-rw-r-- 1 cfw cfw  11K Jul 20 21:50 w3c_home_animation.pdf
+```
 
 ### Multipage TIFF Example
 `identify -verbose multi-page.tiff`
